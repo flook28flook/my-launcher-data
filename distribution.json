@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "pixelmon_by_us",
+      "name": "Pixelmon Thai Project",
+      "description": "เซิร์ฟเวอร์ Pixelmon 1.21.1 ของพวกเรา",
+      "address": "168.222.28.45",
+      "minecraftVersion": "1.21.1",
+      "modules": [
+        {
+          "id": "pixelmon-mod",
+          "name": "Pixelmon Mods",
+          "type": "Library",
+          "artifact": {
+            "url": "https://www.mediafire.com/file/3uyieg4qtq4jfjt/Pixelmon_Thai_Project.zip/file",
+            "size": 500000000
+          }
+        }
+      ]
+    }
+  ]
+}
