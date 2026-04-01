@@ -6,14 +6,14 @@
       "name": "Pixelmon Thai Project",
       "description": "เซิร์ฟเวอร์ Pixelmon 1.21.1 ของพวกเรา",
       "address": "168.222.28.45",
-      "minecraftVersion": "1.21.1",
+      "version": "1.21.1",
       "modules": [
         {
           "id": "pixelmon-mod",
           "name": "Pixelmon Mods",
           "type": "Library",
           "artifact": {
-            "url": "https://download1349.mediafire.com/vexlkurh057ghgsR_nZF5n2tHmAASgXL9eoOfEGasOv7l8Q64cV02odOcqzQF0atUeBzjIBqGjuFIbEo499oBVj_FplKkAH-zPuWLrYnAlXBdJX8T1zl2fdPUrMGPlJwRMe-TPVwIp1Zvi6jLb4Im3jmaoKdGxTa2Im2AVkrbfVteCd3/3uyieg4qtq4jfjt/Pixelmon_Thai_Project.zip",
+            "url": "https://download1349.mediafire.com/vex1kurh057ghgsR_nZF5n2tHmAASgXL9eoOfEGasOv718Q64cV02odOcqzQF0atUeBzjiBqGjuFIbEo499oBVj_FplKkAH-zPuWLrYnAlXBdJX8T1zl2fdPUrMGP1JwRMe-TPVwIp1Zvi6jLb4Im3jmaoKdGxTa2Im2AVkrbfVteCd3/3uyieg4qtq4jfjt/Pixelmon_Thai_Project.zip",
             "size": 500000000
           }
         }
