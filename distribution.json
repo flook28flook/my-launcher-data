@@ -1,23 +1,39 @@
 {
-  "version": "1.21.1",
-  "servers": [
-    {
-      "id": "pixelmon_by_us",
-      "name": "Pixelmon Thai Project",
-      "description": "เซิร์ฟเวอร์ Pixelmon 1.21.1 ของพวกเรา",
-      "address": "168.222.28.45",
-      "version": "1.21.1",
-      "modules": [
+    "version": "1.21.1",
+    "servers": [
         {
-          "id": "pixelmon-mod",
-          "name": "Pixelmon Mods",
-          "type": "Library",
-          "artifact": {
-            "url": "https://download1349.mediafire.com/vex1kurh057ghgsR_nZF5n2tHmAASgXL9eoOfEGasOv718Q64cV02odOcqzQF0atUeBzjiBqGjuFIbEo499oBVj_FplKkAH-zPuWLrYnAlXBdJX8T1zl2fdPUrMGP1JwRMe-TPVwIp1Zvi6jLb4Im3jmaoKdGxTa2Im2AVkrbfVteCd3/3uyieg4qtq4jfjt/Pixelmon_Thai_Project.zip",
-            "size": 500000000
-          }
+            "id": "pixelmon_by_us",
+            "name": "Pixelmon Thai Project",
+            "description": "เซิร์ฟเวอร์ Pixelmon 1.21.1 ของพวกเรา",
+            "icon": "https://raw.githubusercontent.com/flook28flook/my-launcher-data/main/icon.png",
+            "address": "168.222.28.45",
+            "minecraftVersion": "1.21.1",
+            "discord": {
+                "shortId": "Pixelmon",
+                "largeImageText": "Pixelmon Thai Project",
+                "largeImageKey": "pixelmon"
+            },
+            "mainServer": true,
+            "autoconnect": false,
+            "neoForge": {
+                "version": "21.1.185"
+            },
+            "javaOptions": {
+                "supported": "21.x.x",
+                "suggestedMajor": 21,
+                "minDisk": 4000000000
+            },
+            "modules": [
+                {
+                    "id": "pixelmon-mod",
+                    "name": "Pixelmon Mods",
+                    "type": "Library",
+                    "artifact": {
+                        "url": "https://download1349.mediafire.com/vex1kurh057ghgsR_nZF5n2tHmAASgXL9eoOfEGasOv718Q64cV02odOcqzQF0atUeBzjiBqGjuFIbEo499oBVj_FplKkAH-zPuWLrYnAlXBdJX8T1zl2fdPUrMGP1JwRMe-TPVwIp1Zvi6jLb4Im3jmaoKdGxTa2Im2AVkrbfVteCd3/3uyieg4qtq4jfjt/Pixelmon_Thai_Project.zip",
+                        "size": 500000000
+                    }
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
